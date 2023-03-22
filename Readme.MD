@@ -56,4 +56,4 @@ if __name__ == "__main__":
 
 <h3>Conclusão</h3>
 
-<p>O Flask é um framework web leve e fácil de usar para desenvolvimento de aplicações web em Python.</p>
+<p>O Flask é um framework web leve e fácil de usar para desenvolvimento de aplicações web em Python. No caso específico do atual projeto, o uso do Flask permite criar um CRUD de pessoas com poucas linhas de código e sem a necessidade de utilizar uma biblioteca ORM como o SQLAlchemy. Isso pode ser útil em projetos menores ou em situações em que a complexidade do banco de dados não justifica o uso de uma biblioteca ORM.</p>
